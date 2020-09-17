@@ -1,7 +1,7 @@
 ---
 title: TinaCMS Documentation
 id: introduction
-last_edited: '2020-08-17T20:43:06.481Z'
+last_edited: '2020-09-17T03:33:59.589Z'
 ---
 Tina is a **toolkit for building content management systems.** By creating a custom CMS with Tina instead of opting for a conventional, "turn-key" solution, developers that use Tina have a lot more control over the editing experience of their users.
 
@@ -55,7 +55,7 @@ Tina gives you the tools you need to manage content from the data source of your
 * **Media Management:** [Media Stores](/docs/media "Tina Media Store"), [Image Fields](/docs/plugins/fields/image "Image Field Plugin"), [Inline Images](/docs/ui/inline-editing/inline-image "Inline Images")
 * **Custom Fields:** [How to Make a Custom Field Component](/blog/custom-field-components)
 
-## Integrating with React Frameworks
+## Integrating with React Frameworkss
 
 Tina is designed to work with just about any React framework. Once you're comfortable with the basics of TinaCMS, these guides will help you learn the specifics of building a CMS with Next.js or Gatsby.
 
